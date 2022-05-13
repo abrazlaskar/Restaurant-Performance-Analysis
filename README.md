@@ -15,7 +15,7 @@ Analysis of Restaurant Database retrieved from Maven Analytics Repository
   
   Final Report and Visualization: This is the last step wherein the data was visually represented in the form of graphs, pie charts et cetera using DAX measures created earilier. 
   
-  **KEY INSIGHTS AND TAKEAWAYS ARE INCLUDED IN THE FINAL REPORT **
+  **KEY INSIGHTS AND TAKEAWAYS ARE INCLUDED IN THE FINAL REPORT**
   
   
  
