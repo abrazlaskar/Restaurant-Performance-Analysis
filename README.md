@@ -1,6 +1,6 @@
 Analysis of Restaurant Database retrieved from Maven Analytics Repository
-**
- The final report is uploaded in PDF as well as Powerbi format (pbix) for direct viewing. **
+
+**The final report is uploaded in PDF as well as Powerbi format (pbix) for direct viewing.**
  
  About Datasets: Thedata contains 5 datasets which are uploaded in this repository in Excel format. THe files are named as consumer_preferences, consumers, ratings, restaurants_cuisines and restaurants.
   The following steps were followed before analyzing the data using PowerBI
