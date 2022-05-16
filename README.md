@@ -13,7 +13,7 @@ Analysis of Restaurant Database retrieved from Maven Analytics Repository
   
   The tables were connected to each other using primary keys.
   
-  Creation of Calculated Columns and DAX measures: Additional columns were extracted from existing data for gaining further insights of the data to a granular level.DAX measures such as Total CUisines, TOtal Customers, Price were created for visualizing data.
+  Creation of Calculated Columns and DAX measures: Additional columns were extracted from existing data for gaining further insights of the data to a granular level.DAX measures such as Total Cuisines, TOtal Customers, Price were created for visualizing data.
   
   **Final Report and Visualization:**
   This is the last step wherein the data was visually represented in the form of graphs, pie charts et cetera using DAX measures created earilier. 
